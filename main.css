@@ -1,0 +1,91 @@
+
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 4ch;
+
+}
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 5ch;
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 2ch;
+ }
+
+ h3 {
+    color:#0000FF;
+    text-align: center;
+    font-size: 2ch;
+ }
+ .primeiro { font-size: 27px;
+            margin-bottom: 24px;
+          margin-left: 10px;
+          text-align: left; }
+.segundo { font-size: 27px;
+            margin-bottom: 24px;
+          margin-left: 10px;
+          text-align: left; }
+ .terceiro { font-size: 27px;
+            margin-bottom: 24px;
+          margin-left: 10px;
+          text-align: left; }
+ 
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 2ch;
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align:center;
+    font-size: 27px;
+}
+.WhatsApp { position: initial; margin-left: 12px; margin-bottom: 12px; }
+.Hotel{ font-family: 'Times New Roman', Times, serif;
+        color: black;
+        text-align:center;
+        font-size: 27px;
+}
+
+.Salton { position: initial; margin-left: 5px; margin-bottom: 5px;
+}
+.Observações { font-family: 'Times New Roman', Times, serif;
+               color:#FF0000;
+               text-align: center; 
+               font-size: 2ch;
+}
+.Dormitorios {font-family: 'Times New Roman', Times, serif; 
+              color: black;
+              text-align: left;
+              font-size: 2ch;
+
+}
+.Alimentacao { font-family: 'Times New Roman', Times, serif;
+               color: black;
+               text-align: justify ;
+               font-size: 2ch;
+              
+
+}
+.Refeições {
+    font-family: 'Times New Roman', Times, serif;
+        color: black;
+        text-align:center;
+        font-size: 2ch;
+}
+.cafe {font-size: 27px;
+    margin-bottom: 24px;
+  margin-left: 10px;
+  text-align: left; 
+
+}
+.almoco { font-size: 27px;
+    margin-bottom: 24px;
+  margin-left: 10px;
+  text-align: left; }
