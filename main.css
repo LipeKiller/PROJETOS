@@ -62,36 +62,16 @@ p{
 .Salton { position: initial; margin-left: 5px; margin-bottom: 5px;
 }
 .Observações { font-family: 'Times New Roman', Times, serif;
-               color:#FF0000;
+               color:#000000;
                text-align: center; 
-               font-size: 2ch;
+               font-size: 27px;
 }
-.Dormitorios {font-family: 'Times New Roman', Times, serif; 
-              color: black;
-              text-align: left;
-              font-size: 2ch;
-
+h6{ font-family: 'Times New Roman', Times, serif;
+    color:#000000;
+    text-align: center; 
+    font-size: 27px; 
 }
-.Alimentacao { font-family: 'Times New Roman', Times, serif;
-               color: black;
-               text-align: justify ;
-               font-size: 2ch;
-              
-
-}
-.Refeições {
-    font-family: 'Times New Roman', Times, serif;
-        color: black;
-        text-align:center;
-        font-size: 2ch;
-}
-.cafe {font-size: 27px;
-    margin-bottom: 24px;
-  margin-left: 10px;
-  text-align: left; 
-
-}
-.almoco { font-size: 27px;
-    margin-bottom: 24px;
-  margin-left: 10px;
-  text-align: left; }
+.Finalização { font-family: 'Times New Roman', Times, serif;
+    color:#000000;
+    text-align: center; 
+    font-size: 27px; }
